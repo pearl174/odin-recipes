@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: rgb(42, 230, 223);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p, li{
+    color: rgb(163, 238, 243);
+    font-size: 18px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}

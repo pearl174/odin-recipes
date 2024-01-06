@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: rgb(222, 169, 94);
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+p, li{
+    color: rgb(227, 196, 110);
+}
+
