@@ -8,3 +8,19 @@ p, li{
     color: rgb(227, 196, 110);
 }
 
+h2 {
+    background-color: rgb(84, 38, 38);
+    border: groove brown;
+    margin-right: 80%;
+}
+
+p, ol, ul {
+    border: solid;
+    background-color: rgb(100, 13, 13);
+    padding: 30px;
+    margin-right: 500px;
+}
+
+ul {
+    margin-right: 80%;
+}

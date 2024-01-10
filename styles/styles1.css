@@ -5,6 +5,7 @@ a {
 
 h1 {
     color: rgb(25, 209, 237);
+    text-align: center;
 }
 
 body {
@@ -13,8 +14,22 @@ body {
 
 li {
     color: rgb(62, 142, 240);
+    margin: 70px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border: solid rgb(62, 218, 242);
+    padding: 30px;
+    background-color: black;
 }
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+div {
+    background-color: rgb(35, 49, 53);
+    border: solid rgb(62, 218, 242);
+    margin: 20px 300px;
+    padding: 10px;
+}
+
